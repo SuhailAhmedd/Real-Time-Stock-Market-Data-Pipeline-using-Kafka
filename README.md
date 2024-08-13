@@ -4,7 +4,7 @@ This repository showcases an end-to-end data engineering project focused on real
 
 ## Architecture
 
-![Architecture](Architecture)
+![Architecture](Architecture.jpg)
 
 ## Technology Used
 
@@ -20,6 +20,12 @@ This repository showcases an end-to-end data engineering project focused on real
 
 ### Apache Kafka:
 - Real-time data streaming and processing.
+  ![Apache Kafka logo](Apache kafka.png)
+  
+### Apache Kafka Workflow Engine:
+- Real-time data streaming and processing.
+  ![Apache Kafka Workflow Engine](kafka work flow Engine.png)
+
 
 ## Project Description
 
