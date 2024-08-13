@@ -20,11 +20,17 @@ This repository showcases an end-to-end data engineering project focused on real
 
 ### Apache Kafka:
 - Real-time data streaming and processing.
+
   ![Apache Kafka logo](Apache_kafka.png)
   
 ### Apache Kafka Workflow Engine:
-- Real-time data streaming and processing.
   ![Apache Kafka Workflow Engine](kafka_work_flow_Engine.png)
+
+## Dataset Used
+
+You can use any stock market dataset as the primary focus is on the operation side of data engineering (building the data pipeline).
+
+- The dataset used in this project: [Stock Market Data](https://github.com/SuhailAhmedd/Real-Time-Stock-Market-Data-Pipeline-using-Kafka/blob/main/indexProcessed.csv)
 
 ## Project Description
 
