@@ -26,7 +26,6 @@ This repository showcases an end-to-end data engineering project focused on real
 - Real-time data streaming and processing.
   ![Apache Kafka Workflow Engine](kafka_work_flow_Engine.png)
 
-
 ## Project Description
 
 This project involves setting up a real-time data pipeline for stock market data using Apache Kafka, AWS services, and Python. The pipeline collects, processes, and stores data for efficient querying and analysis.
